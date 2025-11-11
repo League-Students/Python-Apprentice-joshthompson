@@ -40,6 +40,8 @@ set_turtle_image(t, 'leaguebot_bot.gif')
 t.pendown()
 t.color('blue')
 
+for i in range():
+
 
 
 
