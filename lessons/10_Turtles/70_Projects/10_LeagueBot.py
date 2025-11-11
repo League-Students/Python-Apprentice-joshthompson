@@ -17,7 +17,7 @@ screen.bgcolor('white')
 
 t = turtle.Turtle()
 
-t.size()
+t.size(10x10)
 ... # Your Code Here
 def set_turtle_image(turtle, image_name):
     """Set the turtle's shape to a custom image."""
