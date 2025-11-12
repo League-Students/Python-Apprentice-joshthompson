@@ -42,7 +42,7 @@ t.color('blue')
 
 for i in range(6):
     t.forward(40)
-    t.left()
+    t.left(60)
 
 
 
